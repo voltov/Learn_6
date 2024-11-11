@@ -1,0 +1,10 @@
+C:\BUCKET\DOT_NET\Learn_6\DataStructures\Tasks\bin\Debug\netcoreapp3.1\Tasks.deps.json
+C:\BUCKET\DOT_NET\Learn_6\DataStructures\Tasks\bin\Debug\netcoreapp3.1\Tasks.dll
+C:\BUCKET\DOT_NET\Learn_6\DataStructures\Tasks\bin\Debug\netcoreapp3.1\Tasks.pdb
+C:\BUCKET\DOT_NET\Learn_6\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\BUCKET\DOT_NET\Learn_6\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfoInputs.cache
+C:\BUCKET\DOT_NET\Learn_6\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfo.cs
+C:\BUCKET\DOT_NET\Learn_6\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.csproj.CoreCompileInputs.cache
+C:\BUCKET\DOT_NET\Learn_6\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.sourcelink.json
+C:\BUCKET\DOT_NET\Learn_6\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.dll
+C:\BUCKET\DOT_NET\Learn_6\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.pdb
